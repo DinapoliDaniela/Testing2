@@ -1,2 +1,2 @@
 # Testing2
-[![](/virgen de guadalupe.png)]()
+[![](virgen de guadalupe.png)]()
